@@ -77,10 +77,13 @@
 - Iterative code refinement
 - Tech: **Python, CrewAI-style orchestration**
 
-### 📂 Student–Faculty Document Sharing App
-- Secure academic document sharing
-- Android app built using **Java**
-- Simple and clean UI
+### 🐚 Advanced Unix-Like Shell
+- Interactive Unix-style shell implemented in **Python**
+- Supports built-in commands, external command execution, and **PATH-based resolution**
+- Implements **input/output redirection** (`<`, `>`, `>>`) and **command pipelines** (`|`)
+- Enables **multi-process execution** using OS pipes and subprocess management
+- Includes **command history** support for tracking previously executed commands
+- Designed with a **modular and scalable architecture** inspired by real Unix shells
 
 ---
 
@@ -91,14 +94,6 @@
 - **Operating Systems Internals**
 - Secure backend architecture
 - Scalable AI agent systems
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OM1807&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OM1807&layout=compact&theme=tokyonight)
-
 
 ---
 
